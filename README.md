@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/aufp6ixa6dolaeqw?svg=true)](https://ci.appveyor.com/project/umniknik/test-ci-2-task-matchers)
